@@ -66,7 +66,7 @@ function setup() {
   World.add(world,polygon);
   
   slingShot = new Slingshot(this.polygon,{x:100,y:200});
-console.log(slingShot)
+console.log('hello')
 }
 function draw() {-m 
   //background(56,44,44); 
